@@ -6,7 +6,7 @@
 
 ### Atribution
 
-The apps search, products, checkout, cart, and accounts were taken from the [E-commerce Mini Project](https://github.com/Code-Institute-Solutions/PuttingItAllTogether-Ecommerce) and customized where possible to suit my project.
+The apps products, checkout, cart, and accounts were taken from the [E-commerce Mini Project](https://github.com/Code-Institute-Solutions/PuttingItAllTogether-Ecommerce) and customized where possible to suit my project.
 
 #### UX
 
